@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607877306 source:c:\users\hp\desktop\codeblocks.cbp\task8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
